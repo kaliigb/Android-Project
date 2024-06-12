@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327930055983",
+    "project_id": "whatistheicon2",
+    "storage_bucket": "whatistheicon2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327930055983:android:8c15360fc9e8b42ecce5da",
+        "android_client_info": {
+          "package_name": "com.example.whatistheicon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327930055983-9pbhb16q75gu3diah5bt6s16bvi4f7j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwXN1ORH2G5JmE1yEJJHFbbbsakLCBCJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327930055983-9pbhb16q75gu3diah5bt6s16bvi4f7j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
